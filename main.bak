@@ -1,0 +1,3 @@
+#already started with $pwd == directory where script is located at
+dotnet publish
+move "D:\Programming\Lang\C#\Projs\.TEMPLATES\CLI-App\App\bin\Release\net8.0\win-x64\publish\App.exe" "D:\Path\cliapp.exe" -force

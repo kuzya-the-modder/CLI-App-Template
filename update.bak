@@ -1,0 +1,5 @@
+$libs = "D:\Programming\Libs\"
+$ap = "ArgsProcessor.dll"
+$np = "NodeProcessor.dll"
+copy $libs\$ap .\$ap -force 
+copy $libs\$np .\$np -force
